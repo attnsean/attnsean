@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsean)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michaelsean)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -24,13 +24,7 @@
 ### 🚀 About Me
 
 ```yaml
-name: Michael Sean Pasquale Thomas
+name: Michael Sean
 location: Indonesia 🇮🇩
 current_role: Mobile Engineer
 open_to_work: true
-
-skills:
-  mobile: ["Flutter", "React Native", "Kotlin", "Swift"]
-  tools: ["Git", "Figma", "VS Code", "Android Studio", "Xcode"]
-  
-interests: ["Clean Architecture", "UI/UX", "Performance Optimization"]
