@@ -24,14 +24,13 @@
 ### 🚀 About Me
 
 ```yaml
-name: Michael Sean
+name: Michael Sean Pasquale Thomas
 location: Indonesia 🇮🇩
 current_role: Mobile Engineer
 open_to_work: true
 
 skills:
   mobile: ["Flutter", "React Native", "Kotlin", "Swift"]
-  backend: ["Node.js", "Firebase", "REST API", "GraphQL"]
   tools: ["Git", "Figma", "VS Code", "Android Studio", "Xcode"]
   
 interests: ["Clean Architecture", "UI/UX", "Performance Optimization"]
